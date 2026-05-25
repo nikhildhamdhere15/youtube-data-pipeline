@@ -12,8 +12,8 @@
         "logs:DescribeLogStreams"
       ],
       "Resource": [
-        "arn:aws:logs:ap-south-1:767397729434:log-group:/aws/lambda/yt-data-pipeline-*",
-        "arn:aws:logs:ap-south-1:767397729434:log-group:/aws/lambda/yt-data-pipeline-*:*"
+        "arn:aws:logs:ap-south-1:ID:log-group:/aws/lambda/yt-data-pipeline-*",
+        "arn:aws:logs:ap-south-1:ID:log-group:/aws/lambda/yt-data-pipeline-*:*"
       ]
     },
     {
